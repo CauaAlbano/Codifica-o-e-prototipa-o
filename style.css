@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+    background: rgb(255,184,184);
+    background: linear-gradient(180deg, rgba(255,184,184,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+td {
+    width: 5.5%;
+    height: 10vh;
+    text-align: center;
+}
+
+.image1 {
+    width: 5%;
+    height: 5.5vh;
+    vertical-align: bottom;
+    text-align: right;
+}
+
+.rodape {
+    vertical-align: bottom;
+    font-size: large
+}
+
+.barra1 {   
+    width: 5%;
+    height: 5.5vh   ;
+    background: rgb(129,3,3);
+    background: linear-gradient(90deg, rgba(129,3,3,1) 23%, rgba(68,0,0,1) 69%, rgba(62,2,2,1) 100%);
+    text-align: center;  
+}
+
+.icon {
+    text-align: center;
+    background-color: #3E0202;
+}
+
+.texto1 {
+    font-size: xx-large;
+}
+
+.quemsomos {
+    background-color: #C10404;
+    font-size: large;
+    color: white;
+    
+}
+
+.placas {
+    background-color: #C10404;
+    font-size: large;
+    color: white;
+}
+
+.processadores {
+    background: rgb(193,4,4);
+background: linear-gradient(90deg, rgba(193,4,4,1) 0%, rgba(148,1,1,1) 50%);
+font-size: large;
+color: white;
+}
+
+.texto3 {
+text-align: left;
+}
+
+.botao {
+    display: inline-block;
+}
+
+.cor1 {
+    background-color: #940101;
+}
+
+.cor2 {
+    background-color: #940101;
+}
+
+.cor3 {
+    background: rgb(148,1,1);
+background: linear-gradient(90deg, rgba(148,1,1,1) 0%, rgba(101,0,0,1) 50%);
+}
+
+.cor4 {
+    background-color: #650000;
+}
+
+

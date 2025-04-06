@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+
+table {
+    height: 100vh;
+    width: 100%;
+    background: rgb(255,184,184);
+background: linear-gradient(180deg, rgba(255,184,184,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+td {
+    height: 5.5vh;
+    width: 5%;
+}
+
+.image1 {
+    width: 5%;
+    height: 5.5vh;
+    vertical-align: bottom;
+    text-align: right;
+}
+
+.rodape {
+    vertical-align: bottom;
+    font-size: large
+}
+
+.barra1 {   
+    width: 5%;
+    height: 5.5vh   ;
+    background: rgb(129,3,3);
+    background: linear-gradient(90deg, rgba(129,3,3,1) 23%, rgba(68,0,0,1) 69%, rgba(62,2,2,1) 100%);
+    text-align: center;  
+}
+
+.icon {
+    text-align: center;
+    background-color: #3E0202;
+}
+
+.text1 {
+    text-align: center;
+    font-size: large;
+}
+
+.text2 {
+    font-size: larger;
+    text-align: center;
+}
+
+.image1 {
+    text-align: center;
+}
+
+.text3 {
+    text-align: left;
+    vertical-align: top;
+}
+
+.text4 {
+    text-align: left;
+    vertical-align: top;
+    font-size: larger;
+}
